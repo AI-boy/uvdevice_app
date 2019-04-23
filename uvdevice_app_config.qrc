@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="uvdevice_config">
+    <file>uvdevice_bk_02.png</file>
+    <file>uvdevice_bk_01.png</file>
+    <file>uvdevice_ico_02.ico</file>
+  </qresource>
+</RCC>

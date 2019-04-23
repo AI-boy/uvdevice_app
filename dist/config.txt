@@ -1,0 +1,30 @@
+[i_SetValue]
+module_01 = 1.000
+module_02 = 1.000
+module_03 = 1.000
+module_04 = 1.000
+module_05 = 1.000
+module_06 = 1.000
+module_07 = 1.000
+module_08 = 1.000
+
+[i_HighValue]
+module_01 = 3.000
+module_02 = 3.000
+module_03 = 3.000
+module_04 = 3.000
+module_05 = 3.000
+module_06 = 3.003
+module_07 = 3.000
+module_08 = 3.000
+
+[i_LowValue]
+module_01 = 0.000
+module_02 = 0.000
+module_03 = 0.000
+module_04 = 0.000
+module_05 = 0.000
+module_06 = 0.000
+module_07 = 0.000
+module_08 = 0.000
+
