@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['UvDevice_MainApp.py'],
-             pathex=['D:\\python3-std\\uvdevice_app'],
+             pathex=['D:\\MyUvApp\\uvdevice_app'],
              binaries=[],
              datas=[],
              hiddenimports=[],
